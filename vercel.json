@@ -1,10 +1,4 @@
 {
-  "buildCommand": "cd frontend && npm run build",
-  "outputDirectory": "frontend/build",
-  "devCommand": "cd frontend && npm run dev",
-  "installCommand": "cd frontend && npm install",
-  "framework": "sveltekit",
-  "regions": ["iad1"],
   "github": {
     "silent": true
   }
